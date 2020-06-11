@@ -19,7 +19,9 @@ def long_planeteer_calls(planeteer_calls)
     if x.length > 4
       return true
     else
-      
+      return false
+    end
+    
 end
 
 def find_valid_calls(planeteer_calls)
