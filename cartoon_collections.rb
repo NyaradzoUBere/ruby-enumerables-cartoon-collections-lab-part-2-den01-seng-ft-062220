@@ -21,7 +21,7 @@ def long_planeteer_calls(planeteer_calls)
     else
       return false
     end
-    
+  end
 end
 
 def find_valid_calls(planeteer_calls)
